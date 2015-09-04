@@ -1,4 +1,4 @@
-![Scyther](https://github.com/MetalSound/Scyther/raw/master/mascot.png) Scyther
+![Scyther](https://github.com/MetalSound/Scyther/raw/master/mascot.jpg) Scyther
 ==========
 
 
